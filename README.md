@@ -1,0 +1,3 @@
+# statemachine
+Code example of Craigh Larman ch. 29.
+...
